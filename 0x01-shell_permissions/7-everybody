@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x everybody
+chmod a+x everybody
